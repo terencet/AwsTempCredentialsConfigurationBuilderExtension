@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>TempAwsCredentialsEnvironmentVariables.ConfigurationBuilder.Extension</id>
-        <version>1.0.0</version>
-        <description></description>
+        <version>1.0.6</version>
+        <description>A convenient configuration builder to add temporary aws credentials to the environment variables </description>
         <authors>Terence Tham</authors>
     </metadata>
 </package>
