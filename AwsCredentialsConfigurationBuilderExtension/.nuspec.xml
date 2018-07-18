@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>TempAwsCredentialsEnvironmentVariables.ConfigurationBuilder.Extension</id>
+        <version>1.0.0</version>
+        <description></description>
+        <authors>Terence Tham</authors>
+    </metadata>
+</package>
