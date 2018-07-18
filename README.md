@@ -1,4 +1,3 @@
 # AwsTempCredentialsConfigurationBuilderExtension
 
-[![appmoury MyGet Build Status](https://www.myget.org/BuildSource/Badge/appmoury?identifier=477b1917-4df8-42b0-a112-ffb1778471c9)](https://www.myget.org/)
-
+[![appmoury MyGet Build Status](https://www.myget.org/BuildSource/Badge/appmoury?identifier=4607bbb4-6c2e-4929-a643-2868531ee09d)](https://www.myget.org/)
